@@ -1,0 +1,12 @@
+Order_ID,Customer,Product,Quantity,Price,Date,Total_Price
+001,Aman,Monitor,2,50000,2024-05-26,100000
+002,Priya,Keyboard,1,500,2024-05-14,500
+004,Seema,Mouse,2,1000,2024-05-20,2000
+006,Priya,Mouse,1,2000,2024-05-22,2000
+007,Aman,Headphones,1,50000,2024-05-02,50000
+011,Priya,Headphones,1,2000,2024-05-10,2000
+013,Aman,Monitor,2,1000,2024-05-26,2000
+016,Seema,Mouse,2,50000,2024-05-20,100000
+017,Aman,Laptop,1,1000,2024-05-26,1000
+018,Priya,Keyboard,2,2000,2024-05-16,4000
+019,Aman,Keyboard,2,1000,2024-05-25,2000
